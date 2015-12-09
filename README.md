@@ -1,5 +1,7 @@
 # ionic-pluralsight
 
-Prerequisites:
+Prerequisites: 
 npm install ionic -g
 npm install cordova -g
+
+ionic start firstIonicApp blank
