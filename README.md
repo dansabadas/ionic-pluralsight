@@ -12,4 +12,8 @@ ionic serve -- to see in a browser using ionic http server
 
 ionic platform add android
 
-ionic build android --here I ams till blocked, Environment variables PATH ANDROID_HOME not recognized
+ionic build android --could be problems id, Environment variables PATH and ANDROID_HOME are not recognized
+
+ionic emulate - to see in an emulator
+
+ionic run android
