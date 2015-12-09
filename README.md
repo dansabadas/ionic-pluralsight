@@ -17,4 +17,5 @@ ionic build android --could be problems id, Environment variables PATH and ANDRO
 ionic emulate - to see in an emulator
 
 ionic run android
+
 http://ionicframework.com/docs/guide/installation.html
